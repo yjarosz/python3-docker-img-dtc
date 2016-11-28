@@ -1,5 +1,5 @@
 coverage==4.2
-Django==1.9.1
+Django==1.10.3
 PyXB==1.2.4
 path.py==8.1.2
 psycopg2==2.6.1
@@ -10,3 +10,4 @@ django-tables2==1.0.7
 lxml==3.5.0
 django-auth-ldap==1.2.7
 minio==2.0.2
+urllib3==1.19.1
