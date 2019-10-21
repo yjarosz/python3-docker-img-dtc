@@ -10,4 +10,4 @@ django-tables2==1.0.7
 lxml==3.5.0
 django-auth-ldap==1.2.7
 minio==2.0.2
-urllib3==1.19.1
+urllib3==1.24.2
