@@ -1,5 +1,5 @@
 coverage==4.2
-Django==1.10.3
+Django==2.2.24
 PyXB==1.2.4
 path.py==8.1.2
 psycopg2==2.6.1
