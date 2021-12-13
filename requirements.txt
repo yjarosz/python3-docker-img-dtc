@@ -7,7 +7,7 @@ pystache==0.5.4
 requests==2.9.1
 django-debug-toolbar==1.4
 django-tables2==1.0.7
-lxml==3.5.0
+lxml==4.6.5
 django-auth-ldap==1.2.7
 minio==2.0.2
 urllib3==1.19.1
